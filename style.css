@@ -1,3 +1,6 @@
+<code>
+@media screen and (max-width: 481px){
+
 body{
   margin: 0;
   padding: 0;
@@ -50,3 +53,5 @@ ul{
 .box li a:hover{
   color: #b9b9b9;
 }
+  }
+</code>
